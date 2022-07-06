@@ -137,15 +137,16 @@ span {
 /* sectionthirdsectionthird */
 .sectionthird{
     padding: 10px;
-    height: 30vh;
+    height: 58vh;
     margin: 30px;
+    
     
     
 }
 .thirddiv1{
     text-align: center;
     
-    
+
 }
 .thirdh1{
     font-size: xxx-large;
@@ -203,4 +204,65 @@ span {
 }
 .im{
     margin-top: 35px;
+}
+/* sectionfifsectionfifsectionfif */
+/* sectionfifsectionfifsectionfif */
+
+.fifdiv{
+    min-height: 15vh;
+   
+    background-color:#ABEBC6  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 25%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+
+}
+#Lable{
+    position: relative;
+}
+#lastinput{
+    border: none;
+    padding: 15px;
+    width: 300px;
+    background-color: rgb(221, 217, 210);
+    border-radius: 10px;
+    outline: none;
+
+}
+button{
+    position: absolute;
+border: none;
+padding: 15px;
+top: 0;
+right: 0;
+bottom: 0;
+color:white  ;
+background-color: #1D8348 ;
+border-radius: 10px;
+outline: none;
+}
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #05070a;
+    color: white;
+    text-align: center;
+    padding:40px 0 ;
+    
+}
+
+.lasth1 {
+    font-family: 'Lobster', cursive;
+    color: #A93226;
+    margin-bottom: 20px;
 }
