@@ -61,7 +61,8 @@ span {
 
 .secondpart {
     text-align: center;
-    height: 30vh;
+    height: 42vh;
+    padding-bottom: 30px;
     
 
 }
@@ -130,4 +131,76 @@ span {
     
 
    
+}
+
+/* sectionthirdsectionthird */
+/* sectionthirdsectionthird */
+.sectionthird{
+    padding: 10px;
+    height: 30vh;
+    margin: 30px;
+    
+    
+}
+.thirddiv1{
+    text-align: center;
+    
+    
+}
+.thirdh1{
+    font-size: xxx-large;
+    margin: 29px;
+
+}
+.thirdp1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:540 ;
+    margin: 25px;
+    clear: both;
+    
+
+}
+
+.thirddiv2{
+    display: flex;
+    justify-content: space-between;
+
+    height: 32vh;
+    padding: 0px 45px;
+    clear: both;
+}
+/* third div in div third div in div */
+/* third div in div third div in div */
+
+.divin1{ 
+    background-color:#FAE5D3 ;
+    padding: 15px;
+    padding-top: 25px;
+    margin: 10px;
+    text-align: justify;
+    
+    overflow: hidden;
+    
+
+}
+.divin2{
+    background-color:#D4E6F1 ;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+    overflow: hidden;
+
+
+}
+
+.divin3{
+    background-color:#ABB2B9  ;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+    overflow: hidden;
+
+}
+.im{
+    margin-top: 35px;
 }
