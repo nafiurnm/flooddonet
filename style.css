@@ -4,3 +4,48 @@ padding:0 ;
 font-family: 'Cabin', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
+
+.webhead{
+    
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 75vh;
+    background-color: blue;
+    background-image: url(images/donation1.jpg);
+    background-size: cover;
+
+}
+.div1{
+    padding: 15%;
+    text-align: center;
+
+
+}
+
+
+.h1{
+    color: rgb(243, 242, 241);
+    font-size:50px;
+    /* text-align: center; */
+    padding: 10px;
+}
+.p1{
+    font-size: x-large;
+    color:#fdfdfd  ;
+    padding-bottom: 35px;
+}
+
+
+.link1{
+    text-decoration: none;
+    /* text-align: center; */
+    background-image: linear-gradient(#E48610 ,#FB8F07 ) ;
+    padding: 13px;
+    border-radius:9px;
+    margin-top: 5px;
+    color: aliceblue;
+    
+
+}
+span{color:  #27AE60 ;}
+
