@@ -1,21 +1,24 @@
-*{margin: 0;
-padding:0 ;
+* {
+    margin: 0;
+    padding: 0;
 
-font-family: 'Cabin', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
-.webhead{
-    
-    background-repeat: no-repeat;
-    width: 100vh;
+.webhead {
+
+
     height: 75vh;
     background-color: blue;
     background-image: url(images/donation1.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px ;
 
 }
-.div1{
+
+.div1 {
     padding: 15%;
     text-align: center;
 
@@ -23,29 +26,41 @@ font-family: 'Poppins', sans-serif;
 }
 
 
-.h1{
+.h1 {
     color: rgb(243, 242, 241);
-    font-size:50px;
+    font-size: 50px;
     /* text-align: center; */
     padding: 10px;
 }
-.p1{
+
+.p1 {
     font-size: x-large;
-    color:#fdfdfd  ;
+    color: #fdfdfd;
     padding-bottom: 35px;
 }
 
 
-.link1{
+.link1 {
     text-decoration: none;
     /* text-align: center; */
-    background-image: linear-gradient(#E48610 ,#FB8F07 ) ;
+    background-image: linear-gradient(#E48610, #FB8F07);
     padding: 13px;
-    border-radius:9px;
+    border-radius: 9px;
     margin-top: 5px;
     color: aliceblue;
-    
+
 
 }
-span{color:  #27AE60 ;}
 
+span {
+    color: #27AE60;
+}
+
+/* secondpatsecondpatsecondpat */
+
+.secondpart {
+    text-align: center;
+    height: 25vh;
+    /* padding: 20px 20px; */
+
+}
