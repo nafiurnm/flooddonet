@@ -205,6 +205,36 @@ span {
 .im{
     margin-top: 35px;
 }
+/* section four */
+
+.sectionfour{
+    min-width: 80vh;
+    min-height: 10%;
+    
+    /* clear: both; */
+    overflow: hidden;
+}
+.divfour{text-align: center;
+justify-content: center;}
+
+.divfour2{
+    
+    position: relative;
+}
+
+.divfour2 .nm{
+    height: 135px;
+    margin: 2px;
+    padding: 25px;
+    justify-content: space-around;
+   
+}
+
+
+
+
+
+
 /* sectionfifsectionfifsectionfif */
 /* sectionfifsectionfifsectionfif */
 
